@@ -1,0 +1,12 @@
+{
+  "name": "csv-data-compare",
+  "version": "1.0.0",
+  "description": "csv data compare",
+  "main": "start.js",
+  "author": "Lucas",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^0.6.0",
+    "moment": "^2.22.2"
+  }
+}
